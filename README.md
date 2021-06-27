@@ -25,4 +25,4 @@ To deploy this project run
 
 ## Donation
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="mistrysiddh" data-color="#ec0302" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+![[Donation](https://www.buymeacoffee.com/mistrysiddh)](https://cdn.buymeacoffee.com/assets/img/home-page-v3/bmc-new-logo.png)
